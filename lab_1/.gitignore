@@ -1,0 +1,11 @@
+App.config
+CSharp.csproj
+CSharp.sln
+.vs
+bin
+obj
+Properties
+Form1.cs
+Form1.Designer.cs
+Csharp.NET
+.idea

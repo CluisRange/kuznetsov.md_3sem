@@ -1,0 +1,4 @@
+.idea
+.pytest_cache
+lab_python_fp/.idea
+lab_python_fp/data_light.json
